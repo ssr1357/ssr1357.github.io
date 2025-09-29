@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Sun Shuran / Personal Homepage"
+title                    : "Shuran Sun/ Personal Homepage"
 title_separator          : "-"
 name                     : &name "Shuran Sun"
 description              : &description
@@ -23,7 +23,7 @@ repository               : "ssr1357/ssr1357.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sun Shuran"
+  name             : "Shuran Sun"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate student at Tsinghua University"
   location         : "Beijing,China"
